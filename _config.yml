@@ -1,2 +1,8 @@
 exclude:
+  - pA/scripts/
+  - pA/tests/
+  - pB/scripts/
+  - pB/tests/
+  - pC/scripts/
+  - pC/tests/
 # NEWPROBLEM
